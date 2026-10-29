@@ -1,0 +1,6 @@
+{
+  "name": "PlanFlow 3D - Intelligent Production Planning System",
+  "description": "High-precision production planning system that models upcoming order backlogs and past sales trends with an interactive 3D digital twin factory floor, capacity balancing, and material optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
